@@ -4,3 +4,24 @@ body {
 .rounded {
 	border-radius: 100%;
 }
+
+/*MIO*/
+#avatar {
+	border-radius: 50%;
+	width: 400px;
+	height: 400px;
+	background-image: url("https://assets.breatheco.de/apis/img/funny/einstein.png");
+	background-size: cover;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	top: 80px;
+}
+
+#wrapper div {
+	margin: 0 auto;
+}
